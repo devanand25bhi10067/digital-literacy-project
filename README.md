@@ -48,14 +48,14 @@ In this module, I studied real-world cybercrime cases and analysed different typ
 
 Repository Structure 
 
-task-1-presentation/ → Infographic 
+task-1-presentation/ → Infographic = digital literacy + descritpion 
 
 task-2-portfolio/ → Profile screenshots + Reflection 
 
-task-3-platform/ → Coding + Google Form + 
+task-3-platform/ → Coding + Google Form + google form link + google form response list 
 
 task-4-email-etiquette/ → Emails + Checklist 
 
-task-5-cybercrime/ → Case study + Prevention tips and solution 
+task-5-cybercrime/ → Case study + Prevention tips and solution + cyber crime awareness 
 
 report/ → Final project report 
